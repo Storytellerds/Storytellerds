@@ -1,6 +1,6 @@
 # Olá, eu sou o Douglas Silva Neres! 👨‍💻
 
-Sou um desenvolvedor apaixonado por **front-end** e atualmente estou me aprofundando em **React** e **Tailwind CSS**. Estou em busca de oportunidades de estágio para aplicar meus conhecimentos e aprender mais sobre **back-end** e **Kotlin**.
+Sou um desenvolvedor apaixonado por **front-end** e atualmente estou me aprofundando em **React** e **Tailwind CSS**, estudo tambem **back-end** buscando conhecimentos com **Node** e **Java Spring**.
 
 ## 📚 Tecnologias que estou aprendendo:
 - **Front-End**: React, Tailwind CSS
